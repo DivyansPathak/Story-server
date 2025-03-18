@@ -16,5 +16,11 @@
         "title": "Ugly Duckling",
         "thumbnailUrl": "https://raw.githubusercontent.com/DivyansPathak/Story-server/refs/heads/main/images/ugly_duckling.jpg",
         "contentUrl": "https://raw.githubusercontent.com/DivyansPathak/Story-server/refs/heads/main/story/story3.md"
+    },
+    {
+        "id": 4,
+        "title": "Tortoise and Hare",
+        "thumbnailUrl": "https://raw.githubusercontent.com/DivyansPathak/Story-server/refs/heads/main/images/tortoise_hare.jpg",
+        "contentUrl": "https://raw.githubusercontent.com/DivyansPathak/Story-server/refs/heads/main/story/story4.md"
     }
 ]
