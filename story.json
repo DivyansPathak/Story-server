@@ -22,5 +22,11 @@
         "title": "Tortoise and Hare",
         "thumbnailUrl": "https://raw.githubusercontent.com/DivyansPathak/Story-server/refs/heads/main/images/tortoise_hare.jpg",
         "contentUrl": "https://raw.githubusercontent.com/DivyansPathak/Story-server/refs/heads/main/story/story4.md"
+    },
+    {
+        "id": 5,
+        "title": "Usne Kaha tha",
+        "thumbnailUrl": "https://raw.githubusercontent.com/DivyansPathak/Story-server/refs/heads/main/images/usne_kaha_tha.jpg",
+        "contentUrl": "https://raw.githubusercontent.com/DivyansPathak/Story-server/refs/heads/main/story/story5.md"
     }
 ]
